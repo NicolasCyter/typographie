@@ -1,9 +1,11 @@
 p {
   width: 80em;
   font-family: 'Spectral', serif;
+  color:  #AA3C39;
 }
 h1 {
   font-family: 'Roboto', sans-serif;
+ color: #432F75;
 }
 
 @font-face {
