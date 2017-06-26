@@ -1,0 +1,17 @@
+p {
+  width: 80em;
+  font-family: 'Spectral', serif;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+@font-face {
+  font-family: 'Spectral';
+  src: url('../police/Spectral-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../police2/fonts/Roboto/Roboto-Black.ttf');
+}
